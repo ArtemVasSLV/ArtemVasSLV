@@ -168,4 +168,4 @@
 ---
 
 ## Файлы
-- `marketplace_business_analysis.ipynb` — Jupyter Notebook с полным кодом и визуализациями
+- `marketplace_business_analysiss.ipynb` — Jupyter Notebook с полным кодом и визуализациями
