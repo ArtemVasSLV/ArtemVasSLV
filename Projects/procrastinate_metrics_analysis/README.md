@@ -230,4 +230,4 @@
 
 ## Файлы
 - `README.md` — описание проекта
-- `analysis.ipynb` — Jupyter Notebook с полным кодом и визуализациями
+- `Procrastinate Pro+.ipynb` — Jupyter Notebook с полным кодом и визуализациями
